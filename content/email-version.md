@@ -1,3 +1,8 @@
+---
+layout: base.njk
+title: Email Version
+---
+
 # 14-Day Meal Plan Calendar & Recipes
 
 ## Week 1 Schedule

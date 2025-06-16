@@ -1,6 +1,6 @@
 module.exports = function(eleventyConfig) {
-  // Copy static files
-  eleventyConfig.addPassthroughCopy("content/**/*.md");
+  // Don't copy markdown files, let Eleventy process them
+  // eleventyConfig.addPassthroughCopy("content/**/*.md");
   
   return {
     dir: {

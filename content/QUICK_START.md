@@ -1,3 +1,8 @@
+---
+layout: base.njk
+title: Quick Start Guide
+---
+
 # 🚀 Quick Start Guide - 14 Day Meal Plan
 
 ## Day 0: Setup (Saturday/Sunday)

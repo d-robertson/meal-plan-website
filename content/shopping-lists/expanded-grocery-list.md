@@ -5,7 +5,7 @@ title: Expanded Grocery List
 
 # Expanded Grocery List for 3 Meals/Day (2 Adults, 14 Days)
 
-[← Back to Index](/) | [Meal Plan →](/meal-plans/full-day-meal-plan.html) | [Day 7 List →](/shopping-lists/day-7-shopping-list.html) | [Prep Schedule →](/prep-guides/3-meal-prep-schedule.html)
+[← Back to Index](/) | [Meal Plan →](/meal-plans/full-day-meal-plan/) | [Day 7 List →](/shopping-lists/day-7-shopping-list/) | [Prep Schedule →](/prep-guides/3-meal-prep-schedule/)
 
 ## Proteins
 ### From Original List

@@ -5,7 +5,7 @@ title: Full Day Meal Plan
 
 # Full Day Meal Plan - 14 Days (For 2 Adults)
 
-[← Back to Index](/) | [Shopping List →](/shopping-lists/expanded-grocery-list.html) | [Breakfast Recipes →](/recipes/breakfast-recipes.html) | [Lunch Recipes →](/recipes/lunch-recipes.html)
+[← Back to Index](/) | [Shopping List →](/shopping-lists/expanded-grocery-list/) | [Breakfast Recipes →](/recipes/breakfast-recipes/) | [Lunch Recipes →](/recipes/lunch-recipes/)
 
 ## Overview
 Complete meal plan covering breakfast, lunch, and dinner for 2 adults over 14 days. Maximizes existing ingredients while adding strategic grocery items for balanced nutrition throughout the day.

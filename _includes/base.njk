@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ title }} | Meal Plan</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            line-height: 1.6;
+            color: #333;
+        }
+        h1, h2, h3 { color: #2c3e50; }
+        h1 { border-bottom: 3px solid #3498db; padding-bottom: 10px; }
+        h2 { border-bottom: 1px solid #ecf0f1; padding-bottom: 5px; }
+        a { color: #3498db; text-decoration: none; }
+        a:hover { text-decoration: underline; }
+        code { background: #f8f9fa; padding: 2px 4px; border-radius: 3px; }
+        pre { background: #f8f9fa; padding: 15px; border-radius: 5px; overflow-x: auto; }
+        ul, ol { padding-left: 20px; }
+        .nav-links {
+            background: #ecf0f1;
+            padding: 10px;
+            border-radius: 5px;
+            margin: 20px 0;
+            font-size: 0.9em;
+        }
+        .nav-links a {
+            margin-right: 15px;
+            padding: 5px 10px;
+            background: white;
+            border-radius: 3px;
+            display: inline-block;
+            margin-bottom: 5px;
+        }
+        table { width: 100%; border-collapse: collapse; margin: 20px 0; }
+        th, td { padding: 12px; text-align: left; border-bottom: 1px solid #ddd; }
+        th { background-color: #f8f9fa; font-weight: bold; }
+        .emoji { font-size: 1.2em; }
+        @media (max-width: 600px) {
+            body { padding: 10px; }
+            .nav-links a { display: block; margin-bottom: 10px; }
+        }
+    </style>
+</head>
+<body>
+    <nav class="nav-links">
+        <a href="/">🏠 Home</a>
+        <a href="/QUICK_START.html">🚀 Quick Start</a>
+        <a href="/meal-plans/full-day-meal-plan.html">📋 Full Plan</a>
+        <a href="/shopping-lists/expanded-grocery-list.html">🛒 Shopping</a>
+        <a href="/recipes/breakfast-recipes.html">🍳 Breakfast</a>
+        <a href="/recipes/lunch-recipes.html">🥗 Lunch</a>
+        <a href="/email-version.html">📧 Email Version</a>
+    </nav>
+    
+    <main>
+        {{ content | safe }}
+    </main>
+    
+    <footer style="margin-top: 40px; padding-top: 20px; border-top: 1px solid #ecf0f1; text-align: center; color: #7f8c8d;">
+        <p>14-Day Meal Plan System • Built for 2 adults • ~$1.70-2.14 per meal</p>
+    </footer>
+</body>
+</html>

@@ -1,0 +1,13 @@
+{
+  "name": "meal-plan-site",
+  "version": "1.0.0",
+  "description": "14-Day Meal Plan Website",
+  "scripts": {
+    "build": "eleventy",
+    "dev": "eleventy --serve",
+    "start": "eleventy --serve"
+  },
+  "dependencies": {
+    "@11ty/eleventy": "^2.0.1"
+  }
+}

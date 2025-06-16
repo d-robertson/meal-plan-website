@@ -1,3 +1,8 @@
+---
+layout: base.njk
+title: Lunch Recipes
+---
+
 # Lunch Recipes & Ideas (For 2 Adults)
 
 ## Sandwich & Wrap Options

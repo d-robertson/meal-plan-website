@@ -1,3 +1,8 @@
+---
+layout: base.njk
+title: Week 1 Email Recipes
+---
+
 # Week 1 Recipes - Email Version
 
 ## SUNDAY: Roasted Whole Chicken + Rice

@@ -1,3 +1,8 @@
+---
+layout: base.njk
+title: Readme
+---
+
 # 🍽️ 14-Day Meal Plan for 2 Adults
 
 A comprehensive meal planning system covering breakfast, lunch, and dinner for two adults over 14 days, designed to minimize grocery shopping and maximize existing ingredients.

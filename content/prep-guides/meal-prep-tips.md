@@ -1,3 +1,8 @@
+---
+layout: base.njk
+title: Meal Prep Tips
+---
+
 # Meal Prep Tips & Strategies (For 2 Adults)
 
 ## Weekly Prep Schedule

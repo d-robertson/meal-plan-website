@@ -1,3 +1,8 @@
+---
+layout: base.njk
+title: 2-Week Meal Plan
+---
+
 # 2-Week Meal Plan (For 2 Adults)
 
 ## Overview

@@ -1,3 +1,8 @@
+---
+layout: base.njk
+title: 3-Meal Prep Schedule
+---
+
 # 3-Meal-a-Day Prep Schedule (For 2 Adults)
 
 ## Sunday - Major Prep Day (2-3 hours)

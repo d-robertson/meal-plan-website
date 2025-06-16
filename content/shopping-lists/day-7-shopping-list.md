@@ -1,3 +1,8 @@
+---
+layout: base.njk
+title: Day 7 Shopping List
+---
+
 # Day 7 Shopping List (Week 2 Fresh Items)
 
 ## Fresh Produce Still Needed

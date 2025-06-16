@@ -1,3 +1,8 @@
+---
+layout: base.njk
+title: Breakfast Recipes
+---
+
 # Breakfast Recipes (For 2 Adults)
 
 ## Overnight Oats Base Recipe

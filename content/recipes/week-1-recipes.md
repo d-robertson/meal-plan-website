@@ -1,3 +1,8 @@
+---
+layout: base.njk
+title: Week 1 Recipes
+---
+
 # Week 1 Detailed Recipes (For 2 Adults)
 
 ## Day 1: Roasted Whole Chicken

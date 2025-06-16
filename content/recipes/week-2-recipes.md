@@ -1,3 +1,8 @@
+---
+layout: base.njk
+title: Week 2 Recipes
+---
+
 # Week 2 Detailed Recipes (For 2 Adults)
 
 ## Day 8: Chicken Thigh Sheet Pan

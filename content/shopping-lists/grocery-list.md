@@ -1,3 +1,8 @@
+---
+layout: base.njk
+title: Grocery List
+---
+
 # Minimal Grocery List (For 2 Adults)
 
 ## Essential Items (Must Buy)
